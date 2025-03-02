@@ -24,7 +24,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		270D51582D72B50A004BBF18 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		272D9E112D698909001CAD8B /* Emoji_ArtApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Emoji_ArtApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		272D9E212D69890A001CAD8B /* Emoji_ArtAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Emoji_ArtAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		272D9E2B2D69890A001CAD8B /* Emoji_ArtAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Emoji_ArtAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,7 +65,6 @@
 		272D9E082D698909001CAD8B = {
 			isa = PBXGroup;
 			children = (
-				270D51582D72B50A004BBF18 /* MyPlayground.playground */,
 				272D9E132D698909001CAD8B /* Emoji_ArtApp */,
 				272D9E122D698909001CAD8B /* Products */,
 			);
